@@ -28,11 +28,11 @@ export const Frame = () => {
             <div className="absolute w-[214px] h-[70px] top-[60px] left-[1464px]">
               <p className="absolute top-[10px] left-0 [font-family:'Roboto',Helvetica] font-bold text-transparent text-[16px] tracking-[0] leading-[normal] whitespace-nowrap">
                 <span className="text-[#ffffff8c]">category:&nbsp;&nbsp;&nbsp;&nbsp;</span>
-                <span className="text-white">Risk tolerance</span>
+                <span className="text-white">Risk Tolerance</span>
               </p>
               <p className="absolute top-[52px] left-0 [font-family:'Roboto',Helvetica] font-bold text-transparent text-[16px] tracking-[0] leading-[normal] whitespace-nowrap">
                 <span className="text-[#ffffff8c]">author:&nbsp;&nbsp;&nbsp;&nbsp; </span>
-                <span className="text-white">evgny kliner</span>
+                <span className="text-white">Evgeny Kliner</span>
               </p>
               <img
                 className="absolute w-[210px] h-px top-0 left-0 object-cover"
@@ -110,7 +110,7 @@ export const Frame = () => {
                                   Beginner
                                 </div>
                                 <div className="absolute h-[30px] top-0 left-0 [font-family:'Inter',Helvetica] font-medium text-white text-[25px] tracking-[0] leading-[normal] whitespace-nowrap">
-                                  Maxinvests
+                                  MaxInvests
                                 </div>
                               </div>
                               <img
